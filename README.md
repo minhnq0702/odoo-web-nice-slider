@@ -1,0 +1,1 @@
+# odoo-web-nice-slider
